@@ -4,14 +4,14 @@ The project has been adjusted slightly to work with Facebook's StyleX (https://s
 
 ## Getting Started
 
-To get started, please install the following modules:
+This project required the following modules:
 
 `npm install --save @stylexjs/stylex`
-
 `npm install --save @stylexjs/babel-plugin`
-
 `npm install --save @stylexjs/nextjs-plugin`
-
 `npm install --save @babel/runtime`
 
-Afterwards you can run the project by running "npm run dev"
+Instead of installing each sepparately, open a terminal in the directory with the package.json
+and run `npm install`.
+
+Afterwards you can run the project by running `npm run dev`.

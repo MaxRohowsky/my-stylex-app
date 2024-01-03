@@ -12,7 +12,7 @@ const styles = stylex.create({
 export default function Home() {
   return (
     <div {...stylex.props(styles.base)} >
-      Hello StyleX
+      This text is styled with StyleX
     </div>
   )
 }
