@@ -1,0 +1,20 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.23.7",
+    "@stylexjs/babel-plugin": "^0.4.1",
+    "@stylexjs/nextjs-plugin": "^0.4.1",
+    "@stylexjs/stylex": "^0.4.1",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
